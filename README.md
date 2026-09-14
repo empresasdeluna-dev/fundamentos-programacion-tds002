@@ -12,4 +12,4 @@
 
 | Nivel | Carpeta | Nombre de la tarea |
 |-------|---------|--------------------|
-| 0 | [01-HolaMundo](./01-HolaMundo) | Nivel 0 + hola mundo |
+| 0 | [01-HolaMundo](./01-HolaMundo) | Nivel 0 + Hola Mundo |
