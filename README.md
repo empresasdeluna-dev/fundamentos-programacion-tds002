@@ -1,8 +1,12 @@
 # Fundamentos de Programación - TDS002
 
-**Nombre:** Cristian Alberto De Luna Santana  
-**Matrícula:** 20260704  
-**Sección:** TDS-002  
+## Información Personal
+
+| Información Personal | Detalle |
+|----------------------|---------|
+| Nombre | Cristian Alberto De Luna Santana |
+| Matrícula | 20260704 |
+| Sección | TDS-002 | 
 
 ## Índice de temas
 
